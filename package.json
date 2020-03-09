@@ -1,0 +1,42 @@
+{
+  "name": "expo-intercom-messenger",
+  "version": "1.0.0",
+  "description": "A React Native implementation, mainly created for Expo developers that do not want to eject their apps just for Intercom support",
+  "main": "IntercomMessenger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bill-pairaktaridis/react-native-intercom-messenger.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "intercom",
+    "expo"
+  ],
+  "author": "Bill Pairaktaridis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bill-pairaktaridis/react-native-intercom-messenger/issues"
+  },
+  "homepage": "https://github.com/bill-pairaktaridis/react-native-intercom-messenger#readme",
+  "dependencies": {
+    "@babel/runtime": "^7.8.7",
+    "@expo/vector-icons": "^10.0.6",
+    "@unimodules/core": "^5.0.0",
+    "@unimodules/react-native-adapter": "^5.0.0",
+    "expo-asset": "^8.0.0",
+    "expo-constants": "^8.0.0",
+    "expo-file-system": "^8.0.0",
+    "expo-font": "^8.0.0",
+    "expo-image-picker": "^8.0.2",
+    "react": "^16.13.0",
+    "react-native": "^0.61.5",
+    "unimodules-permissions-interface": "^5.0.0"
+  },
+  "peerDependencies": {
+    "react-native": ">= 0.51"
+  }
+}
