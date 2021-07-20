@@ -33,7 +33,7 @@
     "expo-font": "^8.0.0",
     "expo-image-picker": "^8.0.2",
     "react": "^16.13.0",
-    "react-native": "^0.61.5",
+    "react-native": "^0.62.3",
     "unimodules-permissions-interface": "^5.0.0"
   },
   "peerDependencies": {
